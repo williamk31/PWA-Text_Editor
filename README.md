@@ -129,7 +129,8 @@ to start the server.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Follow the link below to be taken to the deployed application:
+Follow the link to be taken to the deployed application:
+[J.A.T.E.](https://pwa-text-editor-y1nw.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
